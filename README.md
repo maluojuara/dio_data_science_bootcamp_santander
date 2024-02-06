@@ -23,10 +23,11 @@ In 2023, I was selected to participate in **Bootcamp Data Science with Python - 
 [![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=blue)](https://mariadb.org)
 [![DBeaver](https://img.shields.io/badge/dbeaver-000?style=for-the-badge&logo=dbeaver&logoColor=brown)](https://dbeaver.io)
 
-
+***
 
 ## 📚  Bootcamp content  
-### Prepare for the journey (onboarding)
+
+#### Prepare for the Journey (onboarding)
 
 <div align="left">
 
@@ -43,7 +44,7 @@ In 2023, I was selected to participate in **Bootcamp Data Science with Python - 
 </div>
 
 
-### Introduction to data science and python 
+#### Introduction to Data Science and Python 
 
 <div align="left">
 
@@ -64,6 +65,55 @@ In 2023, I was selected to participate in **Bootcamp Data Science with Python - 
 
 </div>
 
----
-##  Desafio: Profile README
+#### Solving Your First Code Challenges
+
+<div align="left">
+
+| Activity                                                          | Status | Certificate                                          |
+| ----------------------------------------------------------------- | ------- | --------------------------------------------------- | 
+| Code Challenges: Perfect Your Logic and Computational Thinking    |✅      | [🖇️](https://www.dio.me/certificate/AE0501D6/share) |
+| Challenge 1: Balancing the balance                                |✅      | [🖇️](https://github.com/maluojuara/data_science_bootcamp_santander_dio/blob/main/Small_code_challenges/challenge_1.py)  | 
+| Challenge 2: Organizing your assets                               |☑️      | []()  | 
+| Challenge 3: Conditionally rich                                   |☑️      | []()  | 
+| Challenge 4: Compound interest                                    |☑️      | []()  | 
+| Challenge 5: The big deposit                                      |☑️      | []()  | 
+
+
+</div>
+
+#### Getting started in SQL and NoSQL
+
+<div align="left">
+
+| Activity                                                          | Status | Certificate                                          |
+| ----------------------------------------------------------------- | ------- | --------------------------------------------------- | 
+| Introduction to Relational Databases (SQL)                        |✅      | [🖇️](https://www.dio.me/certificate/6B972BAF/share) |
+| Introduction to NoSQL Database                                    |☑️       | []()  | 
+
+
+
+</div>
+
+#### Data visualization and analysis with power BI
+
+<div align="left">
+
+| Activity                                                          | Status | Certificate                                         |
+| ----------------------------------------------------------------- | ------- | ---------------------------------------------------| 
+| Business Intelligence (BI) Fundamentals                           |✅      | [🖇️](https://www.dio.me/certificate/CB2D353E/share) |
+| Introduction to Data Analysis with SQL                            |✅      | [🖇️](https://www.dio.me/certificate/C31FCAA4/share) | 
+| Theoretical Foundations About ETL                                 |✅      | [🖇️](https://www.dio.me/certificate/85F76BB7/share) | 
+| Getting started with Power BI                                     |☑️      | []()  | 
+| Working with visuals in Power BI                                  |☑️      | []()  | 
+| BI Fundamentals: KPIs and Metrics                                 |☑️      | []()  | 
+| Creating interactive dashboards with Power BI                     |☑️      | []()  |
+| Creating an Elegant Sales Report with Power BI                    |☑️      | []()  |
+| Data collection and extraction with Power BI                      |☑️      | []()  |
+| Data cleansing and transformation with Power BI                   |☑️      | []()  |
+| Processing and transforming data with Power BI                    |☑️      | []()  |
+
+</div>
+
+***
+##  
 
