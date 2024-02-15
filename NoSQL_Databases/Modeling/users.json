@@ -1,0 +1,25 @@
+{
+    "_id":1,
+    "name":"Malu Araujo",
+    "age":25,
+    "date_of_birth":"2003-02-17",
+    "adressess":[
+       {
+          "street":"dylan street",
+          "number":5001,
+          "country":"Canada"
+       }
+    ],
+    "interests":[
+       "kart",
+       "movies",
+       "soccer"
+    ],
+    "reservations":[
+       {
+          "date":"2024-03-15",
+          "status":"confirmed",
+          "destination": [ObjectId("123"), ObjectId("23563")]
+       }
+    ]
+ }

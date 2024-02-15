@@ -1,0 +1,12 @@
+{
+    "_id":1,
+    "name":"Foz do Iguaçu",
+    "description":"Multicultural and vibrant city, renowned for its stunning Iguazu Falls and its strategic location at the tri-border area between Brazil, Argentina, and Paraguay",
+    "localization":{
+       "type":"Point",
+       "coordinates":[
+          -25.5163,
+          -54.5854
+       ]
+    }
+ }
