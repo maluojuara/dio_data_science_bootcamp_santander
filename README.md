@@ -77,7 +77,7 @@ In 2023, I was selected to participate in **Bootcamp Data Science with Python - 
 | ----------------------------------------------------------------- | ------- | --------------------------------------------------- | 
 | Code Challenges: Perfect Your Logic and Computational Thinking    |✅      | [🖇️](https://www.dio.me/certificate/AE0501D6/share) |
 | Challenge 1: Balancing the balance                                |✅      | [🖇️](https://github.com/maluojuara/data_science_bootcamp_santander_dio/blob/main/Small_code_challenges/challenge_1.py)  | 
-| Challenge 2: Organizing your assets                               |☑️      | []()  | 
+| Challenge 2: Organizing your assets                               |✅      | [🖇️](https://github.com/maluojuara/data_science_bootcamp_santander_dio/blob/main/Small_code_challenges/challenge_2.py)  | 
 | Challenge 3: Conditionally rich                                   |☑️      | []()  | 
 | Challenge 4: Compound interest                                    |☑️      | []()  | 
 | Challenge 5: The big deposit                                      |☑️      | []()  | 
