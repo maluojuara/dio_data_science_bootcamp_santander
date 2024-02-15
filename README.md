@@ -119,5 +119,11 @@ In 2023, I was selected to participate in **Bootcamp Data Science with Python - 
 </div>
 
 ***
-##  
+
+## 📌 Highlights 
+
+One of the exercises proposed during the bootcamp, in the Python fundamentals section, was the resolution of small code challenges. An example was the "Balancing the balance" challenge, shown below:
+
+https://github.com/maluojuara/data_science_bootcamp_santander_dio/assets/106565510/424636df-1207-4156-8f14-69c483994646
+
 
