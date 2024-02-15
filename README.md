@@ -15,13 +15,17 @@
 
 In 2023, I was selected to participate in **Bootcamp Data Science with Python - Santander + DIO**. This repository contains the files and projects developed during my learning process.
 
-## 🛠️💻  Tecnologias e ferramentas 
+## 🛠️💻  Technologies and tools
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org)
 [![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=blue)](https://mariadb.org)
 [![DBeaver](https://img.shields.io/badge/dbeaver-000?style=for-the-badge&logo=dbeaver&logoColor=brown)](https://dbeaver.io)
+[![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com) 
+
+
+
 
 ***
 
